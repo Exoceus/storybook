@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<p align="center">Build bulletproof UI components faster</p>
 
 <br/>
 
